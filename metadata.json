@@ -1,0 +1,5 @@
+{
+  "name": "AI Course & E-book Creator",
+  "description": "An AI-powered application to generate structured outlines and content for courses and e-books on any topic. Simply enter a subject, choose your format, and let the AI build the foundation for your educational content.",
+  "requestFramePermissions": []
+}
